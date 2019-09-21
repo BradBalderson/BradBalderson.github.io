@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Brad.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm a PhD student at the University of Queensland.
+I work on computational methods to extract biological
+insights from high-throughput assays such as RNA-seq, ChIP-seq, and ATAC-seq.
+My main interest is the combinatoric effect of gene expression and its
+influence on cell type and cell differentiation. This includes
+the interaction effect between gene expression combinatorics and chromatin accessibility.
