@@ -5,11 +5,9 @@ date:   2019-09-21 17:40:34 +1000
 ---
 Hi, I'm Brad. 
 
-I'm a PhD student in the Boden lab at the University of Queensland. 
-I work on creating novel computational methods to extract biological
+I'm a PhD student at the University of Queensland. 
+I work on computational methods to extract biological
 insights from high-throughput assays such as RNA-seq, ChIP-seq, and ATAC-seq. 
-My main interest in the combinatoric effect of gene expression and its 
+My main interest is the combinatoric effect of gene expression and its 
 influence on cell type and cell differentiation. This naturally includes
-interaction effects between gene expression combinatorics and chromatin accessibility. 
-
-You can find the boden lab website at http://bioinf.scmb.uq.edu.au/research/start
+the interaction effect between gene expression combinatorics and chromatin accessibility. 
