@@ -18,18 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brad Balderson
+title: Brad Balderson's Bioinformatics Blog
 email: braddibald@gmail.com
 description: I'm a PhD student at the University of Queensland focusing on single cell genomics.
 baseurl: "BradBalderson.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
+author: Brad Balderson
 github_username:  BradBalderson
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
