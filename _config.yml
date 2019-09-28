@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 author: Brad Balderson
 github_username:  BradBalderson
-linkedin: brad-balderson-79b357194
+linkedin_username: brad-balderson-79b357194
 
 # Build settings
 theme: minima
